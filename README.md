@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="#" target="_blank">SD</a>
+  <a href="#" target="_blank">Sayani.Dev</a>
 </h2>
 
 <div align="center">
