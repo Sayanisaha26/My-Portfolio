@@ -27,7 +27,7 @@ const BaseRoutes = () => {
         <Route path={routes.ABOUT} element={<About />} />
         <Route path={routes.PROJECTS} element={<Projects />} />
         <Route path={routes.PROJECT} element={<ModalProjectCard />} />
-        <Route path={routes.RESUME} element="UNDER MAINTENANCE" />
+        <Route path={routes.RESUME} element={<Resume/>} />
       </Routes>
 
       {background && (

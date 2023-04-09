@@ -54,7 +54,7 @@ const IntroSection = () => {
         </div>
 
         <Tilt trackOnWindow={true}>
-          <LazyLoadImage alt="avatar" effect="blur" src={avatar} />
+          <LazyLoadImage alt="avatar" effect="blur" width="180" src={avatar} />
         </Tilt>
       </div>
 

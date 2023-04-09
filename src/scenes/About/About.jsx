@@ -18,7 +18,7 @@ const About = () => {
           </div>
 
           <div className={s.aboutImg}>
-            <img src="#" alt="" />
+            <img src="https://res.cloudinary.com/dgzxq5u3q/image/upload/v1681037489/my%20doc/IMG_20230101_211541_vx43sz.jpg" alt="" />
           </div>
         </div>
 
