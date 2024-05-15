@@ -1,5 +1,5 @@
 import s from './MainSection.module.scss';
-import homeMainIcon from '../../../assets/IMG_2453_edit.jpg';
+import homeMainIcon from '../../../assets/homeimg.jpg';
 import Typewriter from '../../../components/UIElements/Typewriter/Typewriter';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
